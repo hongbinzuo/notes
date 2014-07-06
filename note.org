@@ -1,0 +1,16 @@
+* Tasks
+** Knowledge Development
+*** Emacs
+**** DONE Emacs official tutorial
+**** DONE Org mode video by its author on Google Tech Talk/Youtube
+**** DONE Emacs software installation & Steve Percell's .emacs.d configuration
+**** TODO Learn the Chinese tutorial by Chenbin
+**** DONE Quickly learn org mode by the tutorial
+     CLOSED: [2014-07-06 Sun 23:34]
+     - State "DONE"       from "TODO"       [2014-07-06 Sun 23:34]
+The last agenda command "C-c a a" does not show the TODOs in the agenda correctly. Why?
+**** TODO Learn org mode by its official manual
+
+*** Spring
+**** TODO Spring in action(3rd edtion)
+Now reading the page 129..
