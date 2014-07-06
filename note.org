@@ -27,8 +27,8 @@ Now reading the page 174/149
 
 ** Work items
 
-*** TODO CCSE: add transaction support for complaint saving
+*** TODO C: add transaction support for complaint saving
 **** TODO Spring in action, read the chapter on Tx
-*** TODO CCSE: introduce tests on UT & IT(more important) to decrease test effort and ensure quality
+*** TODO C: introduce tests on UT & IT(more important) to decrease test effort and ensure quality
 **** TODO Spring test framework study: samples, tutorial, trial, integration with TestNG/JUNIT
-*** TODO CCSE: change VCS from SVN to Git and add Code Inspection workflow for quality
+*** TODO C: change VCS from SVN to Git and add Code Inspection workflow for quality
