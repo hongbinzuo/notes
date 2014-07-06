@@ -17,10 +17,18 @@ The last agenda command "C-c a a" does not show the TODOs in the agenda correctl
 *** Spring
 
 **** TODO Spring in action(3rd edtion)
-Now reading the page 129..
+Now reading the page 174/149
 
 *** Java
 
 *** Algorithms
 
 *** Scala
+
+** Work items
+
+*** TODO CCSE: add transaction support for complaint saving
+**** TODO Spring in action, read the chapter on Tx
+*** TODO CCSE: introduce tests on UT & IT(more important) to decrease test effort and ensure quality
+**** TODO Spring test framework study: samples, tutorial, trial, integration with TestNG/JUNIT
+*** TODO CCSE: change VCS from SVN to Git and add Code Inspection workflow for quality
