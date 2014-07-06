@@ -37,6 +37,15 @@ Now reading the page 174/149
 *** TODO C: introduce tests on UT & IT(more important) to decrease test effort and ensure quality
 **** TODO Spring test framework study: samples, tutorial, trial, integration with TestNG/JUNIT
 *** TODO C: change VCS from SVN to Git and add Code Inspection workflow for quality
+*** TODO C: MySQL M-M data corruption issue
+**** TODO Check if any existing study on MM issue
+
+http://scale-out-blog.blogspot.com/2012/04/if-you-must-deploy-multi-master.html
+https://code.google.com/p/tungsten-replicator/
+not important: http://sysadvent.blogspot.com/2012/12/day-3-zero-downtime-mysql-schema-changes.html
+pay attention: http://codeascraft.com/2012/04/20/two-sides-for-salvation/
+Refer to High Performance MySQL
+
 ** Competence Development
 
 *** Driver License
