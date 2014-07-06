@@ -1,6 +1,6 @@
 * Tasks
 
-** Skills Development
+** Programming Skills
 
 *** Emacs
 
@@ -23,6 +23,11 @@ Now reading the page 174/149
 
 *** Algorithms
 
+**** TODO 1st round: Algorithms(Robert Sedgewick, Kevin Wayne 4th edition)
+**** TODO Prestudy: https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
+**** TODO Attend the Algorithms course July 19, 20, 26, 27.
+
+
 *** Scala
 
 ** Work items
@@ -32,3 +37,11 @@ Now reading the page 174/149
 *** TODO C: introduce tests on UT & IT(more important) to decrease test effort and ensure quality
 **** TODO Spring test framework study: samples, tutorial, trial, integration with TestNG/JUNIT
 *** TODO C: change VCS from SVN to Git and add Code Inspection workflow for quality
+** Competence Development
+
+*** Driver License
+**** TODO Aug 9th, go onto Car
+
+** Immigration
+
+*** IETLS
