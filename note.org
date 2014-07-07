@@ -15,5 +15,12 @@ The last agenda command "C-c a a" does not show the TODOs in the agenda correctl
 **** TODO Learn org mode by its official manual
 
 *** Spring
+
 **** TODO Spring in action(3rd edtion)
 Now reading the page 129..
+
+*** Java
+
+*** Algorithms
+
+*** Scala
