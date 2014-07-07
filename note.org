@@ -1,6 +1,9 @@
 * Tasks
-** Knowledge Development
+
+** Skills Development
+
 *** Emacs
+
 **** DONE Emacs official tutorial
 **** DONE Org mode video by its author on Google Tech Talk/Youtube
 **** DONE Emacs software installation & Steve Percell's .emacs.d configuration
