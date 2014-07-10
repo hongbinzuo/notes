@@ -32,12 +32,17 @@ Now reading the page 174/149
 
 ** Work items
 
-*** TODO C: add transaction support for complaint saving
-**** TODO Spring in action, read the chapter on Tx
+*** DONE C: add transaction support for complaint saving
+    CLOSED: [2014-07-10 Thu 14:41]
+    - State "DONE"       from "TODO"       [2014-07-10 Thu 14:41]
+**** DONE Spring in action, read the chapter on Tx
+     CLOSED: [2014-07-10 Thu 14:42]
+     - State "DONE"       from "TODO"       [2014-07-10 Thu 14:42]
 *** TODO C: introduce tests on UT & IT(more important) to decrease test effort and ensure quality
 **** TODO Spring test framework study: samples, tutorial, trial, integration with TestNG/JUNIT
 *** TODO C: change VCS from SVN to Git and add Code Inspection workflow for quality
-*** TODO C: MySQL M-M data corruption issue
+*** CANCELLED C: MySQL M-M data corruption issue
+    CLOSED: [2014-07-10 Thu 14:42]
 **** TODO Check if any existing study on MM issue
 *** TODO Other: Help review Senior Engineer promotion, Jingang
 
