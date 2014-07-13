@@ -21,8 +21,7 @@ The last agenda command "C-c a a" does not show the TODOs in the agenda correctl
      - State "DONE"       from "STARTED"    [2014-07-13 Sun 01:57]
 
 - Reading complete, but still need more books,examples to get deep understanding
-- TODO Try a sample project using Sprint Security, roles, users, urls store into DB
-http://www.cnblogs.com/visoncheng/p/3335768.html
+- TODO Try a sample project using Sprint Security, roles, users, urls store into DB: http://www.cnblogs.com/visoncheng/p/3335768.html
 
 *** Java
 
