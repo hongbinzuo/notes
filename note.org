@@ -16,8 +16,11 @@ The last agenda command "C-c a a" does not show the TODOs in the agenda correctl
 
 *** Spring
 
-**** STARTED Spring in action(3rd edtion)
-Now reading the page 255/373
+**** DONE Spring in action(3rd edtion)
+     CLOSED: [2014-07-13 Sun 01:57]
+     - State "DONE"       from "STARTED"    [2014-07-13 Sun 01:57]
+
+Reading complete, but still need more books,examples to get deep understanding
 
 **** TODO Try a sample project using Sprint Security, roles, users, urls store into DB
 http://www.cnblogs.com/visoncheng/p/3335768.html
@@ -27,7 +30,7 @@ http://www.cnblogs.com/visoncheng/p/3335768.html
 *** Algorithms
 
 **** TODO 1st round: Algorithms(Robert Sedgewick, Kevin Wayne 4th edition)
-**** TODO Prestudy: https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
+**** STARTED Prestudy: https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
 **** TODO Attend the Algorithms course July 19, 20, 26, 27.
 
 
