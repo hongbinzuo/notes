@@ -69,3 +69,5 @@ Refer to High Performance MySQL
 
 ** Others
 Ebook site: http://gen.lib.rus.ec/
+TED videos to watch http://www.admin10000.com/document/1535.html
+reading list: http://top.jobbole.com/4688/
