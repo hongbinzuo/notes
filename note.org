@@ -25,6 +25,9 @@ The last agenda command "C-c a a" does not show the TODOs in the agenda correctl
 
 *** Java
 
+**** Great sites for Java
+http://nofluffjuststuff.com/home/main
+
 *** Algorithms
 
 **** TODO 1st round: Algorithms(Robert Sedgewick, Kevin Wayne 4th edition)
@@ -46,9 +49,18 @@ The last agenda command "C-c a a" does not show the TODOs in the agenda correctl
 
 *** TODO C: introduce tests on UT & IT(more important) to decrease test effort and ensure quality
 **** TODO Spring test framework study: samples, tutorial, trial, integration with TestNG/JUNIT
-*** TODO C: change VCS from SVN to Git and add Code Inspection workflow for quality
-*** TODO C: MySQL M-M data corruption issue
-**** TODO Check if any existing study on MM issue
+*** CANCELLED C: change VCS from SVN to Git and add Code Inspection workflow for quality
+    CLOSED: [2014-08-01 Fri 11:26]
+    - State "CANCELLED"  from "TODO"       [2014-08-01 Fri 11:26] \\
+      nothing
+*** CANCELLED C: MySQL M-M data corruption issue
+    CLOSED: [2014-08-01 Fri 11:26]
+    - State "CANCELLED"  from "TODO"       [2014-08-01 Fri 11:26] \\
+      none
+**** CANCELLED Check if any existing study on MM issue
+     CLOSED: [2014-08-01 Fri 11:27]
+     - State "CANCELLED"  from "TODO"       [2014-08-01 Fri 11:27] \\
+       none
 
 http://scale-out-blog.blogspot.com/2012/04/if-you-must-deploy-multi-master.html
 https://code.google.com/p/tungsten-replicator/
