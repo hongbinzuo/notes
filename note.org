@@ -31,9 +31,13 @@ http://nofluffjuststuff.com/home/main
 *** Algorithms
 
 **** TODO 1st round: Algorithms(Robert Sedgewick, Kevin Wayne 4th edition)
-**** STARTED Prestudy: https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
-**** TODO Attend the Algorithms course July 19, 20, 26, 27.
-
+**** SOMEDAY Prestudy: https://github.com/julycoding/The-Art-Of-Programming-By-July/blob/master/ebook/zh/Readme.md
+**** DONE Attend the Algorithms course July 19, 20, 26, 27.
+     CLOSED: [2014-08-01 Fri 11:32]
+     - State "DONE"       from "TODO"       [2014-08-01 Fri 11:32]
+**** TODO Review the slides and sound records from the course
+**** TODO 1st round: Introduction to Algorithms
+**** TODO 剑指 Offer
 
 *** Scala
 
