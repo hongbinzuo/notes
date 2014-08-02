@@ -95,3 +95,14 @@ Books:
 
 JVM languages
 http://medianetwork.oracle.com/video/player/2623645003001
+
+Install JDK on Ubuntu:
+https://launchpad.net/~webupd8team/+archive/ubuntu/java
+
+Java vs. Ruby:
+https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-java/
+http://carlosbecker.com/posts/twitter-drops-ruby-bullshit/
+http://a-developer-life.blogspot.com/2013/03/ruby-vs-java.html
+
+JPA vs. hibernate
+http://stackoverflow.com/questions/9881611/whats-the-difference-between-jpa-and-hibernate
