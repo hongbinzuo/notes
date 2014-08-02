@@ -88,4 +88,10 @@ Ebook site: http://gen.lib.rus.ec/
 TED videos to watch http://www.admin10000.com/document/1535.html
 reading list: http://top.jobbole.com/4688/
 
-Test
+RESTful WS:
+Videos:
+http://www.parleys.com/play/514892260364bc17fc56bd30/chapter3/about
+Books:
+
+JVM languages
+http://medianetwork.oracle.com/video/player/2623645003001
