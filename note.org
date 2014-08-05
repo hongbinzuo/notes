@@ -81,3 +81,5 @@ reading list: http://top.jobbole.com/4688/
 RESTful WS:
 Videos:
 http://www.parleys.com/play/514892260364bc17fc56bd30/chapter3/about
+
+http://ibruce.info/2013/12/03/fonts-googleapis-lead-to-slow/
