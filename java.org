@@ -7,6 +7,12 @@
      - Reading complete, but still need more books,examples to get deep understanding
      - TODO Try a sample project using Sprint Security, roles, users, urls store into DB: http://www.cnblogs.com/visoncheng/p/3335768.html
 ** TODO Session: Spring Intro
+  References:
+  http://www.slideshare.net/intellibitz/spring-user-guide
+  http://www.slideshare.net/dhaval201279/spring-overview?related=1  Presentation #2
+  http://www.slideshare.net/clayz/spring-3814785?related=2
+  http://www.slideshare.net/pmanvi/spring-framework-overview-ppt-3068245?related=2 Presentation #1
+  http://www.slideshare.net/weili_at_slideshare/an-introduction-to-the-spring-framework?related=3 Presentation #0 fun
 
 
 * Java
