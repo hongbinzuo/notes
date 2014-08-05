@@ -18,44 +18,45 @@
 * Java
 
 ** Great sites for Java
-http://nofluffjuststuff.com/home/main
+   http://nofluffjuststuff.com/home/main
 
-JVM languages
-http://medianetwork.oracle.com/video/player/2623645003001
+   JVM languages
+   http://medianetwork.oracle.com/video/player/2623645003001
 
-Install JDK on Ubuntu:
-https://launchpad.net/~webupd8team/+archive/ubuntu/java
+   Install JDK on Ubuntu:
+   https://launchpad.net/~webupd8team/+archive/ubuntu/java
 
-Java vs. Ruby:
-https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-java/
-http://carlosbecker.com/posts/twitter-drops-ruby-bullshit/
-http://a-developer-life.blogspot.com/2013/03/ruby-vs-java.html
-http://www.tuicool.com/articles/ZrQBbu
-http://stackoverflow.com/questions/442216/java-or-python-or-ruby-for-web-application
-http://stackoverflow.com/questions/5083292/playframework-vs-ruby-on-rails
-http://blog.codinghorror.com/why-ruby/
+   Java vs. Ruby:
+   https://www.ruby-lang.org/en/documentation/ruby-from-other-languages/to-ruby-from-java/
+   http://carlosbecker.com/posts/twitter-drops-ruby-bullshit/
+   http://a-developer-life.blogspot.com/2013/03/ruby-vs-java.html
+   http://www.tuicool.com/articles/ZrQBbu
+   http://stackoverflow.com/questions/442216/java-or-python-or-ruby-for-web-application
+   http://stackoverflow.com/questions/5083292/playframework-vs-ruby-on-rails
+   http://blog.codinghorror.com/why-ruby/
 
-JPA vs. hibernate, myBatis etc.
-http://stackoverflow.com/questions/9881611/whats-the-difference-between-jpa-and-hibernate
-http://stackoverflow.com/questions/17860161/replacing-a-full-orm-jpa-hibernate-by-a-lighter-solution-recommended-pattern
-http://stackoverflow.com/questions/1984548/hibernate-vs-ibatis/15640572#15640572
-http://mybatis.github.io/mybatis-3/getting-started.html
+   JPA vs. hibernate, myBatis etc.
+   http://stackoverflow.com/questions/9881611/whats-the-difference-between-jpa-and-hibernate
+   http://stackoverflow.com/questions/17860161/replacing-a-full-orm-jpa-hibernate-by-a-lighter-solution-recommended-pattern
+   http://stackoverflow.com/questions/1984548/hibernate-vs-ibatis/15640572#15640572
+   http://mybatis.github.io/mybatis-3/getting-started.html
 
-Java EE Security
+   Java EE Security
 
-JAAS is lower level security framework, Spring Security is good fit for web application security
-http://stackoverflow.com/questions/628416/jaas-for-human-beings
-Java Security JGSS JSSE SASL
-http://stackoverflow.com/questions/11347304/security-authentication-ssl-vs-sasl/11385658#11385658
-http://docs.oracle.com/javase/7/docs/technotes/guides/security/jgss/tutorials/JGSSvsJSSE.html
-Glassfish uses Metro as Web Services Security
-http://stackoverflow.com/questions/3417659/java-ee-security-which-method-to-use
-If without Spring Security
-http://stackoverflow.com/questions/2206911/best-way-for-user-authentication-on-javaee-6-using-jsf-2-0
+   JAAS is lower level security framework, Spring Security is good fit for web application security
+   http://stackoverflow.com/questions/628416/jaas-for-human-beings
+   Java Security JGSS JSSE SASL
+   http://stackoverflow.com/questions/11347304/security-authentication-ssl-vs-sasl/11385658#11385658
+   http://docs.oracle.com/javase/7/docs/technotes/guides/security/jgss/tutorials/JGSSvsJSSE.html
+   Glassfish uses Metro as Web Services Security
+   http://stackoverflow.com/questions/3417659/java-ee-security-which-method-to-use
+   If without Spring Security
+   http://stackoverflow.com/questions/2206911/best-way-for-user-authentication-on-javaee-6-using-jsf-2-0
 
 
-EJB & CDI
-http://stackoverflow.com/questions/13487987/where-to-use-ejb-3-1-and-cdi/13504763#13504763
+   EJB & CDI
+   http://stackoverflow.com/questions/13487987/where-to-use-ejb-3-1-and-cdi/13504763#13504763
 
-Java EE learning
-Java EE tutorial 6: page 455
+*** Java EE learning
+**** DONE Java EE tutorial 6 Basics
+**** TODO Java EE tutorial 6 Advanced
