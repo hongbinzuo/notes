@@ -60,3 +60,13 @@
 *** Java EE learning
 **** DONE Java EE tutorial 6 Basics
 **** TODO Java EE tutorial 6 Advanced
+
+* Frameworks
+
+** Comparing
+http://static.raibledesigns.com/repository/presentations/ComparingJavaWebFrameworks-ApacheConUS2007.pdf
+More recent: http://static.raibledesigns.com/repository/presentations/Comparing_Kick_Ass_Web_Frameworks.pdf
+http://stackoverflow.com/questions/353359/struts-or-spring-mvc-or-struts-spring/2271143#2271143
+http://stackoverflow.com/questions/5123816/struts2-vs-spring-3
+https://spreadsheets.google.com/pub?key=0AtkkDCT2WDMXdC1HOEtnUHpCejJMbUhGeGJWUmh5dVE&hl=en&output=html
+http://stackoverflow.com/questions/2084169/choosing-a-java-web-framework-now/2084512#2084512
