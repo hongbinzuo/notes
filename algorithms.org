@@ -1,0 +1,9 @@
+* Manacher
+  ** key reference
+  http://leetcode.com/2011/11/longest-palindromic-substring-part-ii.html
+  ** references
+  http://zhuhongcheng.wordpress.com/2009/08/02/a-simple-linear-time-algorithm-for-finding-longest-palindrome-sub-string/
+  http://www.cnblogs.com/biyeymyhjob/archive/2012/10/04/2711527.html
+  http://www.felix021.com/blog/read.php?2040
+  http://blog.csdn.net/ggggiqnypgjg/article/details/6645824
+  http://programmingpraxis.com/2010/10/15/find-the-longest-palindrome-in-a-string/
