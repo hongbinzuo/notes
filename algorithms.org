@@ -12,8 +12,11 @@
   http://blog.csdn.net/ggggiqnypgjg/article/details/6645824
   http://programmingpraxis.com/2010/10/15/find-the-longest-palindrome-in-a-string/
 
-* KMP
+* STARTED KMP
 ** references
-   http://blog.csdn.net/v_july_v/article/details/7041827
-   http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
-   http://blog.csdn.net/yutianzuijin/article/details/11954939
+*** STARTED http://www.cppblog.com/xyjzsh/archive/2010/11/23/134371.html
+*** STARTED http://www.matrix67.com/blog/archives/115
+*** STARTED http://www.cnblogs.com/yjiyjige/p/3263858.html
+*** http://blog.csdn.net/v_july_v/article/details/7041827
+*** http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
+*** STARTED http://blog.csdn.net/yutianzuijin/article/details/11954939
