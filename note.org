@@ -63,6 +63,9 @@ pay attention: http://codeascraft.com/2013/03/ruby-vs-java2/04/20/two-sides-for-
 Refer to High Performance MySQL
 
 
+** Productivity
+*** TODO Make use of tmux
+http://code.tutsplus.com/tutorials/intro-to-tmux--net-33889
 
 ** Competence Development
 
