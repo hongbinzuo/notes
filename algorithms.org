@@ -14,6 +14,6 @@
 
 * KMP
 ** references
-http://blog.csdn.net/v_july_v/article/details/7041827
-http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
-http://blog.csdn.net/yutianzuijin/article/details/11954939
+   http://blog.csdn.net/v_july_v/article/details/7041827
+   http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
+   http://blog.csdn.net/yutianzuijin/article/details/11954939
