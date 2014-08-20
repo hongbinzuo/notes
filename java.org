@@ -57,6 +57,8 @@
    EJB & CDI
    http://stackoverflow.com/questions/13487987/where-to-use-ejb-3-1-and-cdi/13504763#13504763
 
+   Java VS. PHP
+
 *** Java EE learning
 **** DONE Java EE tutorial 6 Basics
 **** TODO Java EE tutorial 6 Advanced
