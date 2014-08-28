@@ -58,6 +58,16 @@
    http://stackoverflow.com/questions/13487987/where-to-use-ejb-3-1-and-cdi/13504763#13504763
 
    Java VS. PHP
+   (++++)为什么大型网站前端使用 PHP 后台逻辑用 Java http://www.zhihu.com/question/20314377
+   (+)PHP的前端和后端 http://www.zhihu.com/question/20487516
+   (+++++)http://buytaert.net/why-php-and-not-java  Greate debate
+   Languages performance http://benchmarksgame.alioth.debian.org/u32/which-programs-are-fastest.php
+
+
+   Quote:
+   "But IMHO Java for website development is most often a major overkill."
+   "In my opinion, PHP is better for community whereas java is better for enterprise"
+
 
 *** Java EE learning
 **** DONE Java EE tutorial 6 Basics
