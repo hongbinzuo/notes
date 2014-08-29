@@ -20,3 +20,6 @@
 *** http://blog.csdn.net/v_july_v/article/details/7041827
 *** http://www.inf.fh-flensburg.de/lang/algorithmen/pattern/kmpen.htm
 *** STARTED http://blog.csdn.net/yutianzuijin/article/details/11954939
+* TODO 算法可视化
+http://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
+D3 http://bost.ocks.org/mike/algorithms/
