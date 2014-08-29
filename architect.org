@@ -14,3 +14,6 @@ http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/
 B树 http://blog.csdn.net/v_july_v/article/details/6530142
 B+树 http://stackoverflow.com/questions/870218/b-trees-b-trees-difference
 wiki http://en.wikipedia.org/wiki/B+_tree
+
+*** Memcache
+http://blog.charlee.li/memcached-004/
