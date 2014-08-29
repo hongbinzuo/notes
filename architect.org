@@ -1,0 +1,11 @@
+** STARTED 阅读《大型网站技术架构（核心原理与案例分析）》
+*** 关于一致性哈希：
+http://www.iteye.com/topic/611976
+http://yacare.iteye.com/blog/1973022
+http://blog.csdn.net/sparkliang/article/details/5279393
+http://blog.codinglabs.org/articles/consistent-hashing.html
+
+*** JVM的基本知识
+http://www.slideshare.net/jaxconf/understanding-java-garbage-collection-and-what-you-can-do-about-it-gil-tene
+http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/
+**** TODO Download & Read the book: Java Performance
