@@ -23,3 +23,8 @@ http://blog.charlee.li/memcached-004/
 
 ** STARTED 阅读《构建高性能Web站点》
 *** STARTED 插入学习网络基础知识 参考鸟哥的私房菜
+http://vbird.dic.ksu.edu.tw/linux_server/0110network_basic.php#whatisnetwork
+Section 2.2.6
+
+** STARTED 阅读《大型网站系统与Java中间件实践》
+一本好的国外教材 比较厚 http://www.ppurl.com/2011/09/distributed-systems-concepts-and-design-5th-edition.html
