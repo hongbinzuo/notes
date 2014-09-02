@@ -1,4 +1,6 @@
-** STARTED 阅读《大型网站技术架构（核心原理与案例分析）》
+** DONE 阅读《大型网站技术架构（核心原理与案例分析）》
+   CLOSED: [2014-09-01 Mon 23:54]
+   - State "DONE"       from "STARTED"    [2014-09-01 Mon 23:54]
 *** 关于一致性哈希：
 http://www.iteye.com/topic/611976
 http://yacare.iteye.com/blog/1973022
@@ -8,7 +10,8 @@ http://blog.codinglabs.org/articles/consistent-hashing.html
 *** JVM的基本知识
 http://www.slideshare.net/jaxconf/understanding-java-garbage-collection-and-what-you-can-do-about-it-gil-tene
 http://www.cubrid.org/blog/dev-platform/understanding-java-garbage-collection/
-**** TODO Download & Read the book: Java Performance
+**** TODO Download & Read t
+he book: Java Performance
 
 *** 存储性能优化 P59
 B树 http://blog.csdn.net/v_july_v/article/details/6530142
@@ -17,3 +20,6 @@ wiki http://en.wikipedia.org/wiki/B+_tree
 
 *** Memcache
 http://blog.charlee.li/memcached-004/
+
+** STARTED 阅读《构建高性能Web站点》
+*** STARTED 插入学习网络基础知识 参考鸟哥的私房菜
