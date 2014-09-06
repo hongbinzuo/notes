@@ -1,0 +1,3 @@
+** Tips
+*** add space for /boot
+http://blog.sina.com.cn/s/blog_7deb436e0101kk6t.html
