@@ -28,3 +28,6 @@ Section 2.2.6
 
 ** STARTED 阅读《大型网站系统与Java中间件实践》
 一本好的国外教材 比较厚 http://www.ppurl.com/2011/09/distributed-systems-concepts-and-design-5th-edition.html
+** STARTED Youtube videos
+https://www.youtube.com/watch?v=cNMiO7ejjHI
+https://www.youtube.com/watch?v=t2Ti-pZGy8I

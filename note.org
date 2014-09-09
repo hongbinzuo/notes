@@ -93,3 +93,6 @@ http://coolshell.cn/articles/1399.html
 
 Redis
 https://www.youtube.com/watch?v=CoQcNgfPYPc
+
+weibo Redis practice
+http://www.infoq.com/cn/presentations/tfl-sina-weibo-platform-redis-practice
