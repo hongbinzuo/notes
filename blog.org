@@ -1,0 +1,4 @@
+add to Redis setup:
+http://superuser.com/questions/258819/easy-install-will-not-connect-through-proxy
+
+when run ez_install behind firewall, sudo -E commands
