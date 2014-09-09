@@ -105,4 +105,4 @@ http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-r
 Live video broadcasting
 http://blog.csdn.net/fenglibing/article/details/10457837
 
-Redis in action: page 43/70
+Redis in action: page 50/77
