@@ -1,0 +1,3 @@
+** Practices
+Akka in Wandoujia
+https://typesafe.com/blog/qa-with-caoyuan-deng-akka-at-wandoujia
