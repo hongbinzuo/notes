@@ -116,11 +116,14 @@ http://get.jobdeer.com/
 Startup News
 http://news.dbanotes.net/
 
-《架构师》月刊
+《架构师》期刊
 http://www.infoq.com/cn/architect/
 
-《码农》月刊
+《码农》期刊
 http://www.ituring.com.cn/book/tagged/1735
+
+《编程狂人》期刊
+http://www.tuicool.com/mags
 
 好东西传送门
 http://hao.memect.com/
