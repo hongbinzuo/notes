@@ -106,3 +106,24 @@ Live video broadcasting
 http://blog.csdn.net/fenglibing/article/details/10457837
 
 Redis in action: page 50/77
+
+码农周刊
+http://weekly.manong.io/
+
+Get新知社区
+http://get.jobdeer.com/
+
+Startup News
+http://news.dbanotes.net/
+
+《架构师》月刊
+http://www.infoq.com/cn/architect/
+
+《码农》月刊
+http://www.ituring.com.cn/book/tagged/1735
+
+好东西传送门
+http://hao.memect.com/
+
+极客头条
+http://geek.csdn.net/
