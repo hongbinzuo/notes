@@ -31,3 +31,5 @@ Section 2.2.6
 ** STARTED Youtube videos
 https://www.youtube.com/watch?v=cNMiO7ejjHI
 https://www.youtube.com/watch?v=t2Ti-pZGy8I
+*** articles
+**** TODO https://www.usenix.org/legacy/event/lisa07/tech/full_papers/hamilton/hamilton_html/
