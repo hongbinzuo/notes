@@ -1,5 +1,5 @@
 *** Books
-**** STARTED Redis in action page 58
+**** STARTED Redis in action page 96
 *** web resources
 
 *** Videos
