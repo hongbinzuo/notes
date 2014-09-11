@@ -1,3 +1,9 @@
 ** Books
 
 SCIP PDF version: https://github.com/sarabander/sicp-pdf
+
+
+** Blogs
+
+*** TODO http://hellojava.info/
+*** TODO http://chenkangxian.iteye.com/
