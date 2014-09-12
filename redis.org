@@ -1,7 +1,12 @@
 *** Books
 **** STARTED Redis in action page 96
+**** STARTED Freebook Redis
+***** TODO Ziplist的实现细节以及应用场景（一般是数据集比较小的情况）
+***** TODO BLPOP等客户端阻塞类操作用在什么地方
+
 *** web resources
 
+http://www.wzxue.com/%E8%A7%A3%E8%AF%BBredis%E4%B8%ADziplist%E5%AE%9E%E7%8E%B0%E7%BB%86%E8%8A%82/
 *** Videos
 https://www.youtube.com/watch?v=CoQcNgfPYPc
 https://twitter.com/dr_josiah/status/420950257002754048
