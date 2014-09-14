@@ -32,6 +32,9 @@ http://blog.csdn.net/sundenskyqq/article/details/8549932
 不错，值得再看一遍。Servlet, Listener, Filter, Interceptor区别与联系，主要涉及基本概念、生命周期、作用范围等。
 Struts1使用的是Servlet，而Struts2用的是Filter。拦截器其实是Struts或Spring的概念，不是基本的Java Web概念。
 
+http://blog.csdn.net/zs234/article/details/8832343
+Filter和Servlet的比较列表
+
 ** Great sites for Java
    http://nofluffjuststuff.com/home/main
 
@@ -91,6 +94,7 @@ Struts1使用的是Servlet，而Struts2用的是Filter。拦截器其实是Strut
 * Frameworks
 
 ** Comparing
+http://raibledesigns.com/rd/entry/comparing_jvm_web_frameworks_at
 http://static.raibledesigns.com/repository/presentations/ComparingJavaWebFrameworks-ApacheConUS2007.pdf
 More recent: http://static.raibledesigns.com/repository/presentations/Comparing_Kick_Ass_Web_Frameworks.pdf
 http://stackoverflow.com/questions/353359/struts-or-spring-mvc-or-struts-spring/2271143#2271143
