@@ -1,12 +1,16 @@
-* Spring
+* SSH
 
-** DONE Book: Spring in action(3rd edtion)
+** Spring
+
+*** DONE Book: Spring in action(3rd edtion)
      CLOSED: [2014-07-13 Sun 01:57]
      - State "DONE"       from "STARTED"    [2014-07-13 Sun 01:57]
 
      - Reading complete, but still need more books,examples to get deep understanding
      - TODO Try a sample project using Sprint Security, roles, users, urls store into DB: http://www.cnblogs.com/visoncheng/p/3335768.html
-** TODO Session: Spring Intro
+*** DONE Session: Spring Intro
+   CLOSED: [2014-09-14 日 11:07]
+   - State "DONE"       from "TODO"       [2014-09-14 日 11:07]
   References:
   http://www.slideshare.net/intellibitz/spring-user-guide
   http://www.slideshare.net/dhaval201279/spring-overview?related=1  Presentation #2
@@ -15,7 +19,18 @@
   http://www.slideshare.net/weili_at_slideshare/an-introduction-to-the-spring-framework?related=3 Presentation #0 fun
 
 
+** Struts/SpringMVC
+
+*** DONE http://blog.csdn.net/sundenskyqq/article/details/8552623
+Struts1/Struts2/SpringMVC框架的比较。
+写的不错，可以再看一遍。只是SpringMVC方面写的比较粗糙，排版比较差。有时间可以写一篇博客总结一下。
+
 * Java
+
+** Java Server Side
+http://blog.csdn.net/sundenskyqq/article/details/8549932
+不错，值得再看一遍。Servlet, Listener, Filter, Interceptor区别与联系，主要涉及基本概念、生命周期、作用范围等。
+Struts1使用的是Servlet，而Struts2用的是Filter。拦截器其实是Struts或Spring的概念，不是基本的Java Web概念。
 
 ** Great sites for Java
    http://nofluffjuststuff.com/home/main
