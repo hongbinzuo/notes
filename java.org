@@ -106,3 +106,6 @@ http://www.web4j.com/Criticisms_Drawbacks_Pitfalls_Spring_Rails_PHP.jsp
 * Interview
 Differences among String, StringBuffer, and StringBuilder
 http://blog.csdn.net/rmn190/article/details/1492013
+
+When checked exception and when unchecked exception?
+http://techblog.bozho.net/?p=316
