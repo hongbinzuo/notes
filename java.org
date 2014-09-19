@@ -109,3 +109,7 @@ http://blog.csdn.net/rmn190/article/details/1492013
 
 When checked exception and when unchecked exception?
 http://techblog.bozho.net/?p=316
+http://stackoverflow.com/questions/6115896/java-checked-vs-unchecked-exception-explanation
+
+Name 5 Runtime exceptions
+NullPointerException, ArithmethicException, NoSuchElementException, ClassCastException, IndexOutOfBoundsException
