@@ -31,6 +31,17 @@ The last agenda command "C-c a a" does not show the TODOs in the agenda correctl
 
 *** Scala
 
+*** Dev Env
+**** Version control
+From SVN to Git
+http://www.zhihu.com/question/21218703
+Git interview with some guy
+http://blog.dyngr.com/blog/2013/09/26/junio-c-hamano-interview/
+Free Git client
+http://www.sourcetreeapp.com/
+SVN & VSS
+http://www.iteye.com/problems/89607
+
 ** Work items
 
 *** DONE C: add transaction support for complaint saving

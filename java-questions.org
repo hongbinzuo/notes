@@ -27,8 +27,8 @@ http://elf8848.iteye.com/blog/698217
 Struts2框架性能很好， 但Struts2的标签性能太差了，要避免使用 Struts2标签。
 Struts2由于采用了值栈、OGNL表达式、Struts2标签库等，会导致性能下降，很严重的下降。如果避免或减少使用这些，性能还是很好的。
 Struts2的多层拦截器、多实例Action性能都很好，并不是导致性能问题的原因。
-http://www.iteye.com/topic/679543?page=11
-
+http://www.iteye.com/topic/679543?page=1
+http://wenku.baidu.com/view/148d7e34eefdc8d376ee32ac.html
 
 注：以上测试都没有数据库，也没有复杂业务，action和jsp中内容很简单，目的就是测试MVC部分的性能。
 
@@ -36,10 +36,16 @@ http://www.iteye.com/topic/679543?page=11
 1：对Java标准响应太慢：Struts2的注解用起来很蛋疼完全就是配置文件的copy；
 2：Struts2没有做到COC，配置比较繁琐；虽然有一些插件来解决，但是学习成本高，而SpringMVC的配置沿袭Spring，尤其是对注解的支持；
 3：Struts2对RESTful的支持特别脑残。
+4 Struts2 0-Day漏洞
 **** Struts Action的线程安全
 http://blog.csdn.net/virgoboy2004/article/details/5876133
-Struts1使用的是Servlet所以不是线程安全的，而Struts2中的Action对象不是Servlet，对于每个Request都会生成一个Action实例，所以是线程安全的，但是也是比较耗内存的。
+Struts1使用的是Servlet所以不是线程安全的，而Struts2中的Action对象不是Servlet，对于每个Request都会生成一个Action实例，所以是线程安全的，但是也是比较耗内存的。（需要在Spring中配置Scope=prototype）
 
-*** Servlet的线程安全问题
+*** 线程安全
+**** Servlet的线程安全问题
 http://nxdxt.blog.51cto.com/394/59399
 解决方案：实现 SingleThreadModel 接口【不建议使用，阻塞产生性能问题】；同步对共享数据的操作（sychronized）；避免使用实例变量
+
+**** ThreadLocal
+http://my.oschina.net/davidzhang/blog/111010
+顾名思义它是local variable（线程局部变量）。它的功用非常简单，就是为每一个使用该变量的线程都提供一个变量值的副本。从线程的角度看，就好像每一个线程都完全拥有该变量。
