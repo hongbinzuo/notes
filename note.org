@@ -79,6 +79,10 @@ twitter 出品
 丰富的组件
 插件
 
+**** Javascript
+***** jQuery
+jQuery & AJAX: load, get, post; in text, http, xml, json等资源
+
 **** CSS
 ***** CSS Sprite技术
 http://www.iteye.com/news/25088
