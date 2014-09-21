@@ -17,6 +17,27 @@ Spring的拦截器与Servlet的Filter有相似之处，比如二者都是AOP编�
 使用的资源不同：同其他的代码块一样，拦截器也是一个Spring的组件，归Spring管理，配置在Spring文件中，因此能使用Spring里的任何资源、对象，例如Service对象、数据源、事务管理等，通过IoC注入到拦截器即可；而Filter则不能。
 深度不同：Filter在只在Servlet前后起作用。而拦截器能够深入到方法前后、异常抛出前后等，因此拦截器的使用具有更大的弹性。所以在Spring构架的程序中，要优先使用拦截器。
 
+*** Web Service
+**** 一篇通俗的科普文章
+http://www.360doc.com/content/11/1104/16/1073512_161674938.shtml
+**** 用JAX-WS原生库开发Web Service（轻量级）
+http://www.cnblogs.com/Johness/archive/2013/04/19/3030392.html
+一般使用wsimport, wsgen生成客户端 做测试
+**** Web Service的开发框架
+axis, CXF etc.
+http://marshzg.iteye.com/blog/1608260
+**** Why CXF instead of axis or Spring WS
+http://stackoverflow.com/questions/16260529/why-apache-cxf
+http://architects.dzone.com/articles/apache-cxf-vs-apache-axis-vs
+**** TODO wsimport & wsgen
+都不是很清楚
+http://www.coderanch.com/t/625764/java-Web-Services-SCDJWS/certification/difference-wsimport-wsgen-command
+http://blog.csdn.net/glfaaaaa/article/details/8772239
+**** Test
+三种REST WS的测试方法
+http://blog.dayanjia.com/2010/08/3-ways-to-test-restful-web-services/
+
+
 *** SSH
 **** Spring MVC与Struts2的区别
 http://blog.csdn.net/ya2dan/article/details/7395458
@@ -45,6 +66,16 @@ Struts1使用的是Servlet所以不是线程安全的，而Struts2中的Action�
 
 **** SSH架构
 一般分为四层：Web展现层、服务层、DAO层和持久化层（也叫实体层或Model层）
+
+**** Hibernate
+***** HQL和SQL有什么区别（两个内容差不多）
+http://zhenchengchagangzi.iteye.com/blog/1441006
+http://wenku.baidu.com/view/4092f659be23482fb4da4c48.html
+
+***** How to show Real SQL
+http://stackoverflow.com/questions/2536829/hibernate-show-real-sql
+If you want to see the SQL sent directly to the database (that is formatted similar to your example), you'll have to use some kind of
+jdbc driver proxy like P6Spy (or log4jdbc).
 
 *** 线程安全
 **** Servlet的线程安全问题
