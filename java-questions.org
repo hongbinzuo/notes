@@ -69,6 +69,7 @@ http://nirvana1988.iteye.com/blog/971246
 **** MyBatis
 比较好的一个教程
 http://www.cnblogs.com/daviddai/p/3485574.html
+http://www.slideshare.net/flynofry/mybatis-11099681?qid=5c2805cc-92eb-4ed1-8270-610d6e494732&v=qf1&b=&from_search=7
 
 **** Spring MVC与Struts2的区别
 http://blog.csdn.net/ya2dan/article/details/7395458
