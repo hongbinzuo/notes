@@ -1,5 +1,9 @@
 ** Java EE
 
+*** General
+**** JNDI
+http://blog.csdn.net/zhaosg198312/article/details/3979435
+
 *** Servlet, Listener, Filter和Interceptor的区别
 http://blog.csdn.net/sundenskyqq/article/details/8549932
 http://listenup.iteye.com/blog/1559553
@@ -39,6 +43,31 @@ http://blog.dayanjia.com/2010/08/3-ways-to-test-restful-web-services/
 
 
 *** SSH
+**** SSH的执行流程
+http://blog.csdn.net/jinzheng069/article/details/8780318
+工作流程
+http://my.oschina.net/haquanwen/blog/82386
+http://zhidao.baidu.com/question/337139245.html
+SSH整合
+http://www.slideshare.net/yiditushe/strutsspringhibernate-2016023?qid=8666a105-06c2-4c92-8e0d-539cfa5ef1a7&v=qf1&b=&from_search=1
+
+**** Struts2
+Struts2的拦截器
+http://www.cnblogs.com/withyou/p/3170440.html
+http://www.cnblogs.com/liushuijinger/p/3457109.html
+http://developer.51cto.com/art/200906/126894.htm
+http://flycars001.iteye.com/blog/1971304
+FilterDispatcher已经过期，使用新的Struts2PrepareAndExecuteFilter分发Action请求（参见上面SSH整合的slideshare幻灯片）
+http://www.iteye.com/topic/829843
+
+**** Spring
+applicationContext中关于数据源的配置，使用context:property-placeholder
+http://blog.csdn.net/l345480242/article/details/8449708
+Spring中配置Mybatis的三种方法
+http://nirvana1988.iteye.com/blog/971246
+
+
+
 **** Spring MVC与Struts2的区别
 http://blog.csdn.net/ya2dan/article/details/7395458
 
