@@ -69,6 +69,9 @@ select * from T_A a where to_char(a.begintime,'yyyy-mm-dd')='2013-1-1';
 
 **** 各个数据库的默认端口号
 MySQL 3306; Oracle: 1521; SQL Server: 1433; Postgre: 5432; Sybase: 5000以上
+**** 左连接 右连接 内连接
+http://www.jb51.net/article/30513.htm
+http://www.cnblogs.com/fanwenxuan/archive/2007/11/06/951473.html
 
 *** Web Front-end
 **** Bootstrap
