@@ -16,3 +16,30 @@ Spring的拦截器与Servlet的Filter有相似之处，比如二者都是AOP编�
 规范不同：Filter是在Servlet规范中定义的，是Servlet容器支持的。而拦截器是在Spring容器内的，是Spring框架支持的。
 使用的资源不同：同其他的代码块一样，拦截器也是一个Spring的组件，归Spring管理，配置在Spring文件中，因此能使用Spring里的任何资源、对象，例如Service对象、数据源、事务管理等，通过IoC注入到拦截器即可；而Filter则不能。
 深度不同：Filter在只在Servlet前后起作用。而拦截器能够深入到方法前后、异常抛出前后等，因此拦截器的使用具有更大的弹性。所以在Spring构架的程序中，要优先使用拦截器。
+
+*** Spring MVC与Struts2的区别
+http://blog.csdn.net/ya2dan/article/details/7395458
+
+**** 机制：Spring MVC的入口是Servlet，而Struts2是filter。这样就导致了二者的机制不同，这里就牵涉到servlet和filter的区别了。
+**** TODO 性能：Spring MVC比Struts更快吗？这是个问题
+http://elf8848.iteye.com/blog/698217
+结论：
+Struts2框架性能很好， 但Struts2的标签性能太差了，要避免使用 Struts2标签。
+Struts2由于采用了值栈、OGNL表达式、Struts2标签库等，会导致性能下降，很严重的下降。如果避免或减少使用这些，性能还是很好的。
+Struts2的多层拦截器、多实例Action性能都很好，并不是导致性能问题的原因。
+http://www.iteye.com/topic/679543?page=11
+
+
+注：以上测试都没有数据库，也没有复杂业务，action和jsp中内容很简单，目的就是测试MVC部分的性能。
+
+**** Struts的缺点（易用性方面）：
+1：对Java标准响应太慢：Struts2的注解用起来很蛋疼完全就是配置文件的copy；
+2：Struts2没有做到COC，配置比较繁琐；虽然有一些插件来解决，但是学习成本高，而SpringMVC的配置沿袭Spring，尤其是对注解的支持；
+3：Struts2对RESTful的支持特别脑残。
+**** Struts Action的线程安全
+http://blog.csdn.net/virgoboy2004/article/details/5876133
+Struts1使用的是Servlet所以不是线程安全的，而Struts2中的Action对象不是Servlet，对于每个Request都会生成一个Action实例，所以是线程安全的，但是也是比较耗内存的。
+
+*** Servlet的线程安全问题
+http://nxdxt.blog.51cto.com/394/59399
+解决方案：实现 SingleThreadModel 接口【不建议使用，阻塞产生性能问题】；同步对共享数据的操作（sychronized）；避免使用实例变量
