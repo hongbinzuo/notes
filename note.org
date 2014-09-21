@@ -41,6 +41,48 @@ Free Git client
 http://www.sourcetreeapp.com/
 SVN & VSS
 http://www.iteye.com/problems/89607
+    VSS，默认采用悲观锁方式，也就是资源占有和释放方式，冲突会少很多。
+    SVN，默认采用乐观锁方式，提交前检查版本和差异，当然它也可以支持悲观锁方式。
+    但这两种都是必须实时在线同步的，脱离了服务环境维护时非常麻烦。
+    Git，是可离线分布式的，本地即服务，代表了更先进的思想。
+
+*** Database
+**** Oracle中to_char对性能的影响以及解决方案
+http://zhidao.baidu.com/question/528644264.html
+select * from T_A a where a.begintime=to_date('2013-1-1','yyyy-mm-dd');
+和
+select * from T_A a where to_char(a.begintime,'yyyy-mm-dd')='2013-1-1';
+
+查询结果是一样的.
+区别在于查询的 处理步骤不一样.
+select * from T_A a where a.begintime=to_date('2013-1-1','yyyy-mm-dd');
+是先把  '2013-1-1' 这个字符串,  转换为日期格式,  然后去和数据库里面做比较.
+如果有 1000 行数据, 那么操作就是
+1次  字符转换为  日期,  1000 次日期比较。
+
+select * from T_A a where to_char(a.begintime,'yyyy-mm-dd')='2013-1-1';
+是把数据库里面的每一行的 begintime,  转换为 字符格式， 然后去和数据库里面做比较。
+如果有 1000 行数据, 那么操作就是
+1000次  日期转换为字符,  1000 次字符串比较。
+
+一般不推荐用 第二种 方法啊.
+
+**** 各个数据库的默认端口号
+MySQL 3306; Oracle: 1521; SQL Server: 1433; Postgre: 5432; Sybase: 5000以上
+
+*** Web Front-end
+**** Bootstrap
+http://www.zhihu.com/question/19821825
+twitter 出品
+基于 Less、丰富的 Mixin
+可以 Responsive 的栅格系统
+丰富的组件
+插件
+
+**** CSS
+***** CSS Sprite技术
+http://www.iteye.com/news/25088
+主要是为了减少浏览器请求次数而使用的技术，具体来说就是使用一个大图片包含多个小图片的内容，然后用background-image,repeat,position等属性完成小图片的加载。
 
 ** Work items
 
