@@ -1,3 +1,11 @@
+** Java
+
+*** Java内存模型
+http://blog.aliyun.com/1176
+http://www.cs.umd.edu/~pugh/java/memoryModel/?spm=0.0.0.0.VmyOYb
+入门看这个：
+http://blog.hesey.net/2011/04/introduction-to-java-virtual-machine.html
+
 ** Java EE
 
 *** General
