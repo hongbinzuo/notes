@@ -1,3 +1,15 @@
 ** Practices
 Akka in Wandoujia
 https://typesafe.com/blog/qa-with-caoyuan-deng-akka-at-wandoujia
+
+** Courses
+*** Principles of Reactive Programming
+This course is about Scala, Akka and reactive programming tought by Martin etc.
+**** DONE lecture 27 
+
+*** Scala Handbook by james qiu
+**** TODO Status: 2.21.2 simple Chinese handbook 
+http://qiujj.com/static/Scala-Handbook.htm 
+
+
+
