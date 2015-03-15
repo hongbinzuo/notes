@@ -1,0 +1,8 @@
+* TODO Play for Scala Page 40/330 19
+* TODO to write a blog 
+ ** Play activator timeout issue:
+ http://stackoverflow.com/questions/25922163/play-2-3-4-unable-to-create-new-project-timeout-exception 
+
+
+
+
