@@ -1,3 +1,6 @@
+** Web Resources
+Great resources for Akka learning tutorial: http://www.quora.com/What-are-the-best-learning-resources-for-Akka
+
 ** Practices
 Akka in Wandoujia
 https://typesafe.com/blog/qa-with-caoyuan-deng-akka-at-wandoujia
@@ -7,9 +10,15 @@ https://typesafe.com/blog/qa-with-caoyuan-deng-akka-at-wandoujia
 This course is about Scala, Akka and reactive programming tought by Martin etc.
 **** DONE lecture 27 
 
+** Books
+
 *** Scala Handbook by james qiu
-**** TODO Status: 2.21.2 simple Chinese handbook 
+**** DONE Status: 2.21.2 simple Chinese handbook 
 http://qiujj.com/static/Scala-Handbook.htm 
+
+*** Akka Concurrency
+
+**** TODO Status: 2015/2/16: beginning
 
 
 
