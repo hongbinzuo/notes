@@ -21,6 +21,6 @@ http://qiujj.com/static/Scala-Handbook.htm
 
 **** TODO Status: 2015/2/16: beginning
 *** Functional Programming in Scala
-**** TODO Status: Page 92
+**** TODO Status: Page 148
 
 
